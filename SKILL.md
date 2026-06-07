@@ -1,7 +1,7 @@
 ---
 name: archive-daily-note
 description: Automatically moves yesterday's Obsidian daily note into a past-days/ archive folder using the Obsidian CLI move command to preserve wiki-links.
-metadata: {"openclaw":{"requires":{"bins":["obsidian"]}}}
+metadata: {"openclaw":{"requires":{"bins":["obsidian"]},"homepage":"https://github.com/madebydia/archive-daily-note","author":"Diana Park (@madebydia)"}}
 ---
 
 # Archive Daily Note Skill
