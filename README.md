@@ -2,7 +2,7 @@
 
 [![ClawHub](https://img.shields.io/badge/ClawHub-archive--daily--note-blue)](https://clawhub.ai/madebydia/archive-daily-note)
 
-An [OpenClaw](https://openclaw.app) skill that moves yesterday's Obsidian daily note into a `past-days/` archive folder using the Obsidian CLI.
+An OpenClaw skill that moves yesterday's Obsidian daily note into a `past-days/` archive folder using the Obsidian CLI.
 
 ## What It Does
 
@@ -33,7 +33,7 @@ Target: isolated
 
 ## Requirements
 
-- [OpenClaw](https://openclaw.app) with cron support
+- OpenClaw with cron support
 - Obsidian CLI (`obsidian` binary)
 - Daily notes in `MM-DD-YYYY DayOfWeek.md` format
 - A `past-days/` folder in your vault
